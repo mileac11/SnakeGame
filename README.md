@@ -2,6 +2,7 @@ Tema Joc Matrice
 Milea Carmen 244
 
 Denumire joc: Snake 
+Video: https://youtu.be/BpUCgGPWVAo
 Elemente conexe necesare: Joystick, LCD
 
 Structurare
